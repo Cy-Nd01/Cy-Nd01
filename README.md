@@ -11,11 +11,18 @@ markdown<div align="center">
 ## ⚡ whoami
 ▸ Web Application Penetration Tester — in progress
 
+
+
 ▸ Future: AI Red Teaming
+
+
 
 ▸ Currently: Networking → Linux → Python → PortSwigger
 
+
+
 ▸ Every commit here is a real step, not a tutorial screenshot
+
 
 ---
 
