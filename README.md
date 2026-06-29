@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="Banner.png" alt="Cy.Nd Banner" width="100%" />
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/Cy-Nd01/Cy-Nd01/main/banner.png" width="100%"/>
 </div>
 
